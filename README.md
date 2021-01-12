@@ -1,5 +1,7 @@
 # gaiaup
 Python Package for Seismic Wave Simulation
+Developed by GAIA (Center fo Geosciences Artifical Intelligence and Advanced Computing)
+Universitas Pertamina
 
 ![gaia banner](https://drive.google.com/uc?export=view&id=171_LwWqx4zUGKftCVtWlN-zp0NgqTZ3m)
 
