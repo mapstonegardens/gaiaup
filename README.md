@@ -16,4 +16,9 @@ from gaiaup import seismic2d, seismic3d, wavefield3d
 ```
 
 # Example
-Try python file in Example folder
+Try python file in Example folder in Github
+
+# Team
+Agus Abdullah, Ph.D.
+Waskito Pranowo, M.T.
+Dicky Ahmad Zaky
